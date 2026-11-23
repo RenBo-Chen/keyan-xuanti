@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研选题"
+  short_description: "从已有研究的发现、矛盾与边界发展后续问题，逐步构建社科研究体系"
+  default_prompt: "请使用 $keyan-xuanti 科研选题，基于我的研究材料提出有联系的后续问题，说明承接理由、证据路径和推进优先级。"
